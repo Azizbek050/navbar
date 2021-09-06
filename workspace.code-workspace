@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../Animatsiyalar/lesson-1"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Animatsiya-dars2"
+	}
+}
